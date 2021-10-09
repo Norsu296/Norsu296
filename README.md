@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Norsu296
+- 👋 Hi, I’m Jakub Brózda
 - 👀 I’m interested in java programming, travelling and walking in the mountains
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on interesting projects in java
