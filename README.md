@@ -41,9 +41,14 @@ http://www.linkedin.com/in/jakub-brózda
 
 ## Community
 
-## 🤜🤛 I'm happy to be part of the great IT communities 
-- Zaprogramuj Życie
-- ClanHouse
+#### I'm happy to be part of the great IT communities 
+- [Zaprogramuj życie](https://discord.gg/zaprogramujzycie)
+
+![alt text](./logo-profil-circle_250.png)
+
+- [ClanHouse](https://www.linkedin.com/company/clanhouseio)
+
+![alt text](./clanhouse.png)
 
 ## Statistics
 
